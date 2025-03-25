@@ -73,12 +73,12 @@
       <EnvironmentVariables>
          <EnvironmentVariable
             key = "MPARTICLE_KEY"
-            value = "REPLACEME"
+            value = "us2-bcbf4e2955219c4da8ab04b7c4104c61"
             isEnabled = "YES">
          </EnvironmentVariable>
          <EnvironmentVariable
             key = "MPARTICLE_SECRET"
-            value = "REPLACEME"
+            value = "6OwdjiDZ9puWwNpd-t_cWLrtWobuCcHlmuxprH2JzvVkQujHt4N-bn7CPfhowyze"
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>
